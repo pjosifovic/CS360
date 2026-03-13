@@ -1,0 +1,21 @@
+﻿Mode,Num. of Files to Search,Time(sec),WordSearched,WordCount
+Single-threaded,125,5.764767,quasi,189419
+Single-threaded,125,4.297224,quasi,189419
+Single-threaded,125,4.244754,quasi,189419
+Single-threaded,125,4.222154,quasi,189419
+Single-threaded,125,4.609956,quasi,189419
+Single-threaded,250,9.600812,quasi,370847
+Single-threaded,250,11.477146,quasi,370847
+Single-threaded,250,10.857312,quasi,370847
+Single-threaded,250,11.139706,quasi,370847
+Single-threaded,250,9.856531,quasi,370847
+Single-threaded,500,28.858378,quasi,742387
+Single-threaded,500,21.029771,quasi,742387
+Single-threaded,500,20.116206,quasi,742387
+Single-threaded,500,22.787304,quasi,742387
+Single-threaded,500,23.48814,quasi,742387
+Single-threaded,1000,47.594431,quasi,1499829
+Single-threaded,1000,44.389749,quasi,1499829
+Single-threaded,1000,36.940552,quasi,1499829
+Single-threaded,1000,33.428412,quasi,1499829
+Single-threaded,1000,39.063698,quasi,1499829
